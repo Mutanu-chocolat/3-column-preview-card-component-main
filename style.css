@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.container{
+    
+    width: 80%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 20% auto;
+    overflow: hidden;
+    
+}
+#card1{
+   background-color: hsl(31, 77%, 52%); 
+}
+
+#card2{
+    background-color:  hsl(184, 100%, 22%);
+}
+#card3{
+    background-color:  hsl(179, 100%, 13%);
+}
+/*General properties*/
+.cards {
+    padding: 30px;
+    color: white;
+
+}
+.cards h1{
+    font-weight: 900;
+}
+.cards p{
+    color: rgb(188, 183, 183);
+    font-size: 1.3rem;
+    width: 70%;
+    margin-bottom: 100px;
+}
+.cards a{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: white;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 70px;
+    
+}
+#card1 a{
+    color: hsl(31, 77%, 52%);
+}
+
+#card2 a{
+    color:  hsl(184, 100%, 22%);
+}
+
+#card3 a{
+    color:  hsl(179, 100%, 13%);
+}
