@@ -5,11 +5,11 @@ body{
 }
 .container{
     
-    width: 80%;
+    width: 50%;
     border-radius: 10px;
-    display: flex;
+    display: block;
     justify-content: center;
-    margin: 20% auto;
+    margin: 2% auto;
     overflow: hidden;
     
 }
@@ -35,7 +35,7 @@ body{
 .cards p{
     color: rgb(188, 183, 183);
     font-size: 1.3rem;
-    width: 70%;
+    width: 50%;
     margin-bottom: 100px;
 }
 .cards a{
